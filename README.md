@@ -3,7 +3,7 @@
 <b>📖 Overview</b><br>
 The NexusGoods Store Capstone Project is a comprehensive analysis of retail performance using Power BI. The project leverages data visualization and analytics to uncover insights into sales, customer behavior, and product performance, enabling data-driven decision-making.
 
-<b>🎯Objective<b><br>
+<b>🎯Objective</b><br>
 The main objectives of the project include:<br>
 1.Analyzing Sales Trends: Identify trends over time and seasonal patterns.<br>
 2.Customer Insights: Segment customers based on their buying behavior.<br>
